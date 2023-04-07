@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74a21a44-01f3-4567-86b3-c242546801b2" name="Changes" comment="commit_2" />
+    <list default="true" id="74a21a44-01f3-4567-86b3-c242546801b2" name="Changes" comment="commit_3">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arp_spoof.py" beforeDir="false" afterPath="$PROJECT_DIR$/arp_spoof.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,13 +32,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/root/PycharmProjects/network_scanner"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/root/PycharmProjects/network_scanner&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="arp_spoof" />
@@ -82,13 +85,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680627327716</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit_3">
+      <created>1680664367878</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680664367878</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit_1" />
     <MESSAGE value="commit_2" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit_2" />
+    <MESSAGE value="commit_3" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit_3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
